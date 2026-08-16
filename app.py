@@ -1,2 +1,2 @@
 def greet():
-    return "hello"
+    return "site-scout-works"
